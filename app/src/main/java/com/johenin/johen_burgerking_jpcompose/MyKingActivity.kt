@@ -387,7 +387,7 @@ fun OrderHistory(
                     color = colorResource(id = R.color.burgerkingText)
                 )
                 Text(
-                    orderNumber.toString(), fontWeight = FontWeight.Medium,
+                    orderNumber, fontWeight = FontWeight.Medium,
                     color = colorResource(id = R.color.burgerkingText)
                 )
                 Text(
